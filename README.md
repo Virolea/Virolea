@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am an experience software engineer working mainly with Ruby and its web framework counterpart, Ruby on Rails. Over the years I've worked for companies of different shape and sizes, which helped build significant experience building web applications. 
+
+I am currently working as a contractor and am available for hire. 
+
 <!--
 **virolea/virolea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
