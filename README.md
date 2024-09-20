@@ -2,7 +2,12 @@
 
 I am an experience software engineer working mainly with Ruby and its web framework counterpart, Ruby on Rails. Over the years I've worked for companies of different shape and sizes, which helped build significant experience building web applications. 
 
-I am currently working as a contractor and am available for hire. 
+I have a couple of open source projects I am actively maintaining on my spare time:
+- [Rosetta](https://github.com/virolea/rosetta):Unobstrusive Internationalization solution for Rails applications.
+- [Persisted attributes](https://github.com/virolea/persisted_attributes): Add persisted fields to active record models without migrations.
+
+[Hit me up on X]([url](https://x.com/vincentrolea))
+
 
 <!--
 **virolea/virolea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
