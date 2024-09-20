@@ -6,7 +6,7 @@ I have a couple of open source projects I am actively maintaining on my spare ti
 - [Rosetta](https://github.com/virolea/rosetta):Unobstrusive Internationalization solution for Rails applications.
 - [Persisted attributes](https://github.com/virolea/persisted_attributes): Add persisted fields to active record models without migrations.
 
-[Hit me up on X](https://x.com/vincentrolea))
+[Hit me up on X](https://x.com/vincentrolea)
 
 
 <!--
